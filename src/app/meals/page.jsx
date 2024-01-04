@@ -12,7 +12,6 @@ async function Meals() {
 export default async function MealsPage() {
     return (
         <>
-            {console.log(meals)}
             <header className={classes.header}>
                 <h1>
                     Delicious meals, created
